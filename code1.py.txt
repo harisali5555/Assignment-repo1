@@ -1,4 +1,4 @@
-x=5
-y=56
+x=85
+y=78
 sum=x+y
 print(sum)
